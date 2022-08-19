@@ -4,7 +4,7 @@
 
 To paste the Feather from the schematic file you need the [WorldEdit](https://dev.bukkit.org/projects/worldedit) plugin.
 
-Download the the latest version and place the .jar file inside of the `plugins` directory in your server directory.
+Download the the latest version and place the .jar file inside the `plugins` directory in your server directory.
 
 
 ### Feather Plugin

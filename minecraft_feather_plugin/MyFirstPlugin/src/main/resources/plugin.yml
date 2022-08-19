@@ -1,0 +1,30 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: com.foamyguy.myfirstplugin.MyFirstPlugin
+api-version: 1.18
+authors: [ Foamyguy ]
+description: Test Description
+commands:
+  check:
+    description: Check the block below you
+    usage: /<command>
+
+  spawnpin:
+    description: Spawn a block and redstone torch
+    usage: /<command>
+
+  testpin:
+    description: Test flip pin state
+    usage: /<command>
+
+  start_feather:
+    description: Initialize a Feather RP2040
+    usage: /<command>
+
+  set_pin_read:
+    description: Set the given pin to read mode. Must call start_feather before using this command
+    usage: /<command>
+
+  set_pin_write:
+    description: Set the given pin to write mode. Must call start_feather before using this command
+    usage: /<command>
