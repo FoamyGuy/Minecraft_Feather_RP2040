@@ -18,5 +18,8 @@ High level steps:
 - Put the Feather `.schemetic` into the world edit schematics folder
 - Paste the feather into minecraft with the commands `/schem load pink_feather` and `//paste`
 - Find and look directly at the designated starting location
+
+![Starting Location Screenshot](images/start_feather_block.png)
+
 - Run /start_feather
 - set up the pins that you want to use with `/set_pin_read` and `/set_pin_write` commands
