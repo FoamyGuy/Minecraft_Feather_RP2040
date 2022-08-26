@@ -1,7 +1,7 @@
 ![Screenshot of Feather RP2040](images/pink_feather_screenshot.png)
 
-# Introduction Video
-https://youtu.be/WTONPr3u-5U
+# Introduction Video and How-To Playlists
+https://www.youtube.com/watch?v=WTONPr3u-5U&list=PLX7KM5dlGnexgDwWIOirw65qUtp1G0b2P
 
 # Overview
 The project consists of three main components. 
