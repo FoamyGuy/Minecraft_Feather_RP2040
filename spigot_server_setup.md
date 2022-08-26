@@ -1,3 +1,6 @@
+# Video Walkthrough of the Installtion
+https://youtu.be/a_ZD0LNgVDs
+
 # Spigot Server Setup
 The minecraft components for this project rely on the Minecraft server software: [Spigot](https://www.spigotmc.org/)
 
@@ -10,6 +13,8 @@ This page covers the install process for using `BuildTools.jar`: https://www.spi
 Create a start script. On Linux this can be a `.sh` file. On windows you can make a `.bat` file.
 
 This process is covered on this page: https://www.spigotmc.org/wiki/spigot-installation/
+
+Replace the `#` in the'se scripts with a number, I use `2`
 
 ### Linux Start Script
 ```
